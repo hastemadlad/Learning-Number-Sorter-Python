@@ -20,6 +20,3 @@ elif input_decision == "d":
     print(numbers_set)
 else:
     print("Please select between only A or D")
-
-
-print("For updates on the best number sorter follow me on github")
