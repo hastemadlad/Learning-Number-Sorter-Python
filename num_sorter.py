@@ -20,3 +20,6 @@ elif input_decision == "d":
     print(numbers_set)
 else:
     print("Please select between only A or D")
+
+# IMPORTANT STUFF TO SEE LATER
+# WATERDOG
